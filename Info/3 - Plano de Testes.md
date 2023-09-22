@@ -120,5 +120,3 @@ As prioridades para a automação de testes são:
 3. Testes de Processamento de Pedidos.
 
 A automação desses testes contribuirá significativamente para a eficiência dos testes e a identificação rápida de problemas durante o desenvolvimento.
-
----
