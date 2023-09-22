@@ -1,5 +1,7 @@
 # 🎯 Plano de Testes - Saucedemo e Swag Labs (Challenge 6)
 
+**link para download**: https://drive.google.com/file/d/1UNaDCOygWTAXuS2b6bvZc82eXEU7SGUD/view?usp=sharing
+
 **Integrantes do grupo:** Gabriel Simas Roberto da Silva
 **Data:** 21/09/2023
 
