@@ -1,0 +1,9 @@
+source 'https://rubygems.org'
+
+gem 'selenium-webdriver', '~> 3.142'
+gem 'site_prism'
+gem 'cucumber'
+gem 'capybara'
+gem 'rspec'
+gem 'faker'
+gem 'pry'
